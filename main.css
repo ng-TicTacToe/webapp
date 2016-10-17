@@ -20,8 +20,7 @@ td {
 }
 .td:hover{
   background-color:#003333; 
-  padding: .5em;
-  border-radius: 7px;
+ 
 }
 #players {
   margin-left:auto; 
