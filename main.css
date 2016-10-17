@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(10, 50, 80, .5);
+  background-color: #669933;
   text-align: center;
   font-size: 16px;
   font-family: 'Comic Sans MS', Helvetica, sans-serif;
@@ -10,14 +10,18 @@ table {
   width: 551px; 
   -webkit-user-select: none; 
 }
-
 td {
   height: 175px;
   width: 175px;
   text-align: center;
   font-size: 120px;
-  border: 10px solid;
+  border: 10px solid #cccccc;
   -webkit-border-radius: 10px;
+}
+.td:hover{
+  background-color:#003333; 
+  padding: .5em;
+  border-radius: 7px;
 }
 #players {
   margin-left:auto; 
@@ -29,7 +33,7 @@ td {
 #players > div {
   display: inline-block;
   padding-right: 25px;
-  color: #cccccc;
+  color: #FFFFFF;
   -webkit-transition-duration: 200ms;
 }
 .button {
@@ -40,20 +44,14 @@ td {
   -webkit-transform: scale(1.5);
 }
 .X-marker {
-  color: #663366;
+  color: #6633CC;
 }
 .X-marker:before {
   content: "X";
 }
 .O-marker {
-  color: #CC0033;
+  color: #CC0066;
 }
 .O-marker:before {
   content: "O";
-}
-.font{
-  text-align: auto;
-  font-family: arial;
-  font-size: 30pt
-  font-color:blue;
 }
