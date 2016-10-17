@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   font-family: 'Comic Sans MS', Helvetica, sans-serif;
 }
-p {
+.font{
   font-color: #003366;
 }
 table {
