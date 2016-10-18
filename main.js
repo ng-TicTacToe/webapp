@@ -185,7 +185,7 @@ function switchPlayers() {
 }
 
 function newGame() {  
-  /* clear the currently stored game out of local storage */
+  /* clear the currently stored game out of local storages */
   localStorage.removeItem('tic-tac-toe-board');
   localStorage.removeItem('last-player');
   
