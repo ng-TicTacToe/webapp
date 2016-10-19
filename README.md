@@ -11,11 +11,19 @@ Leader: Rangel Angelo C. Macapagal - Sub-coder,uploader, Designer
 
 Members:
 Cherry Ann Otadoy - Subcoder, Designer
+
 Jessa Enrique's - Subcoder, Designer
-John Salvador - Distributor of Code
+
+John Salvador - Distributor of Code, Researcher 
+
 Rose Ann Linao - Researcher
+
 Ysrael Briones - Researcher
+
 Russel Ricohermoso - Designer
+
 mariella Gaviola - Researcher
+
 Elsie Espinosa - Coder,  Designer
+
 Maria Ruth  Navat -  Subcoder, Designer
