@@ -7,7 +7,7 @@
 
 Contribution in Group 
 
-Leader: Rangel Angelo C. Macapagal - Sub-coder,uploaded, Designer 
+Leader: Rangel Angelo C. Macapagal - Sub-coder,uploader, Designer 
 
 Members:
 Cherry Ann Otadoy - Subcoder, Designer
